@@ -27,7 +27,7 @@ export default function Rodape() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        Faça seu pedido
+        Clique aqui e faça seu pedido!
       </a>
 
       <img
